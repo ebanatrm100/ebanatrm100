@@ -78,6 +78,15 @@ A Rwanda-focused research prototype for organising hazard-preparedness evidence,
 - Secure Software Development
 - Practical Cybersecurity
 
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ebanatrm100&show_icons=true&theme=tokyonight" height="165" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ebanatrm100&layout=compact&theme=tokyonight" height="165" alt="Most Used Languages" />
+</p>
+
+
 ## 🤝 Open to Collaboration
 
 I welcome opportunities to learn, contribute to meaningful open-source projects, and collaborate with other developers.
