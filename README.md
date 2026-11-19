@@ -42,11 +42,11 @@ connectivity.
 trusted information, assess district-level risks, prepare practical plans, and support authorised communication. 
 The website is the front door to this larger system - it is not the whole system by itself.
 
-4.SLOTGUARD     :AI-powered appointment no-show prediction, autonomous front-desk
-recovery, and smart overbooking engine built for small appointment-based businesses (1–10 staff members). Unlike
-traditional booking software (such as Calendly, Fresha, or Booksy) that tries to replace a business's calendar and
-merely sends generic reminders to every client, SlotGuard sits silently on top of their existing calendar with zero
-workflow disruption.
+ 4.SLOTGUARD     :AI-powered appointment no-show prediction, autonomous front-desk
+ recovery, and smart overbooking engine built for small appointment-based businesses (1–10 staff members). Unlike
+ traditional booking software (such as Calendly, Fresha, or Booksy) that tries to replace a business's calendar and
+ merely sends generic reminders to every client, SlotGuard sits silently on top of their existing calendar with zero
+ workflow disruption.
 
 
 ## 📚 Currently Learning
