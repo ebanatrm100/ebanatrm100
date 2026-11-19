@@ -50,7 +50,7 @@ The website is the front door to this larger system - it is not the whole system
 
 
 ## 📚 Currently Learning
-
+- Software Programming
 - Network and Infrastructure Security
 - Linux Administration
 - Secure Software Development
