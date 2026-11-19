@@ -46,7 +46,29 @@ The website is the front door to this larger system - it is not the whole system
  recovery, and smart overbooking engine built for small appointment-based businesses (1–10 staff members). Unlike
  traditional booking software (such as Calendly, Fresha, or Booksy) that tries to replace a business's calendar and
  merely sends generic reminders to every client, SlotGuard sits silently on top of their existing calendar with zero
- workflow disruption.
+ workflow disruption.[https://github.com/ebanatrm100/slotguard-engine]
+
+### 🌍 [TACTALAB — Universal Classroom & Accessibility Engine](https://github.com/ebanatrm100/tactalab)
+
+An offline-first inclusive education platform designed to make learning more accessible for students with disabilities, including classrooms with limited internet connectivity.
+
+**Technologies:** TypeScript, Node.js, Progressive Web Apps (PWA).
+
+### 📦 [STOCKSIGNAL — Inventory Intelligence](https://github.com/ebanatrm100/stocksignal-rwanda)
+
+A human-in-the-loop inventory review platform that identifies data-quality issues, expiry risks, duplicate records and stock-cover concerns in health commodity inventory data.
+
+**Technologies:** Python, Streamlit.
+
+### 🌍 [LINKEWISERW — Rwanda Hazard Preparedness](https://github.com/ebanatrm100/LINKEWISERW)
+
+A Rwanda-focused research prototype for organising hazard-preparedness evidence, district-level planning information and trusted public sources through a human-reviewed approach.
+
+**Technology:** Python, Flask.
+
+---
+
+**More projects:** I am continuously developing practical solutions in cybersecurity, software engineering, networking and infrastructure security.
 
 
 ## 📚 Currently Learning
