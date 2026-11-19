@@ -4,7 +4,7 @@
 
 I am a student developer interested in building practical software projects and learning how to design, configure, and secure computer systems and networks.
 
-My goal is to develop strong software engineering, networking, and cybersecurity skills through practical projects and open-source contributions.
+My goal is to develop strong software engineering, networking, and cybersecurity skills through practical projects and open-source contributions with a great aim to become a Cybersecurity and Infrastructure Security Engineer with strong programming skills.
 
 ---
 
